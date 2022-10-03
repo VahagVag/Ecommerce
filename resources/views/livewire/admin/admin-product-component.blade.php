@@ -18,9 +18,7 @@
                             </div>
                             <div class="col-md-6">
                                 <a href="{{route('admin.addproduct')}}" class="btn btn-success pull-right">Add New Product</a>
-
                             </div>
-
                         </div>
                     </div>
                     <div class="panel-body">
